@@ -1,4 +1,4 @@
-# 👩‍💻 Arooba Shafique  
+# Arooba Shafique  
 
 💡 Passionate **Computer Science Student** | Future **Full-Stack Developer** | Exploring **Entrepreneurship in Tech**  
 
@@ -37,16 +37,31 @@
 
 ## 📂 Featured Projects  
 
+### 🎬 MovieHub  
+Django-powered movie discovery platform integrated with TMDB API.  
+**Features:** Search & browse movies, user authentication, responsive UI.  
+**Tech:** Django · Python · Tailwind CSS · JavaScript · SQLite · TMDB API  
+
+---
+
 ### 🛒 Shopify Replica  
-- A **Django-based e-commerce platform** with 19+ modules  
-- Includes: store customization, product & order management, payments, analytics  
+Shopify-style e-commerce platform with full store and admin management.  
+**Features:** Dark-mode UI, CRUD for products/orders/payments, secure auth.  
+**Tech:** Django · Python · Tailwind CSS · JavaScript · SQLite · Bootstrap  
+
+---
+
+### 🌆 Urban Aura  
+E-commerce website with modular Django backend.  
+**Features:** Product listings, admin dashboard, cart & checkout, responsive design.  
+**Tech:** Django · Python · HTML · Tailwind CSS · JavaScript · SQLite  
+
+---
 
 ### 💬 WhatsApp Clone  
-- Built with **Django + WebSockets**  
-- Features: real-time chat, groups, unread message counters, bold usernames  
-- Includes **edit & delete message functionality**  
-
-
+Full-stack chat application with real-time messaging using WebSockets.  
+**Features:** One-to-one & group chat, status updates, message deletion, unread tracking.  
+**Tech:** Django · Python · WebSockets · HTML · Tailwind CSS · JavaScript  
 
 
 
