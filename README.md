@@ -1,6 +1,6 @@
 # Arooba Shafique  
 
-💡 Passionate **Computer Science Student** | Future **Full-Stack Developer** | Exploring **Entrepreneurship in Tech**  
+ Passionate **Computer Science Student** | Future **Full-Stack Developer** | Exploring **Entrepreneurship in Tech**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arooba-shafique/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:aroobas2004@gmail.com)  
