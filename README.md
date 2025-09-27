@@ -45,13 +45,7 @@
 ### 🎬 MovieHub  
  A **Django-powered movie discovery platform** integrated with the TMDB API.  
 - **Features:** Search & browse movies · User authentication · Responsive UI  
-- **Tech:** 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) 
-![TMDB](https://img.shields.io/badge/TMDB-01D277?style=flat-square)  
+- **Tech:** Django, Python, Tailwind CSS, JavaScript, SQLite, TMDB  
 [🔗 GitHub](https://github.com/arooba-shafique/MovieHub) 
 
 ---
@@ -59,13 +53,7 @@
 ### 🛒 Shopify Replica  
  A **Shopify-style e-commerce platform** with complete store and admin management.  
 - **Features:** Dark-mode UI · Secure auth · CRUD for products, orders & payments  
-- **Tech:** 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)  
+- **Tech:** Django, Python, Tailwind CSS, JavaScript, SQLite, Bootstrap  
 [🔗 GitHub](https://github.com/arooba-shafique/shopify-replica) 
 
 ---
@@ -73,13 +61,7 @@
 ### 🌆 Urban Aura  
  A **modular Django e-commerce website** with a clean, modern design.  
 - **Features:** Product listings · Admin dashboard · Cart & checkout · Responsive design  
-- **Tech:** 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
+- **Tech:** Django, Python, Tailwind CSS, JavaScript, HTML5, SQLite  
 [🔗 GitHub](https://github.com/arooba-shafique/urban-aura-ecommerce) 
 
 ---
@@ -87,10 +69,5 @@
 ### 💬 WhatsApp Clone  
  A **real-time chat application** built with Django Channels & WebSockets.  
 - **Features:** One-to-one & group chat · Status updates · Message deletion · Unread tracking  
-- **Tech:** 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![WebSockets](https://img.shields.io/badge/WebSockets-008000?style=flat-square)  
-[🔗 GitHub](https://github.com/arooba-shafique/whatsapp-clone)
+- **Tech:** Django, Python, Tailwind CSS, JavaScript, WebSockets  
+[🔗 GitHub](https://github.com/arooba-shafique/whatsapp-clone)  
