@@ -67,11 +67,4 @@
 - **Tech:** Django · Python · WebSockets · Tailwind CSS · JavaScript  
 [🔗 GitHub](https://github.com/arooba-shafique/whatsapp-clone)
 
-### 🎬 MovieHub  
-🔍 A **Django-powered movie discovery platform** integrated with the TMDB API.  
-
-**Features:** Search & browse movies · User authentication · Responsive UI  
-**Tech:** ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff) ![TMDB](https://img.shields.io/badge/TMDB-01d277?logo=tmdb&logoColor=fff)  
-
-[🔗 GitHub](https://github.com/yourusername/moviehub) · [🌐 Live Demo](https://moviehub-demo.com)
 
