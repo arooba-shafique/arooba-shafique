@@ -38,32 +38,31 @@
 ## 📂 Featured Projects  
 
 ### 🎬 MovieHub  
-Django-powered movie discovery platform integrated with TMDB API.  
-**Features:** Search & browse movies, user authentication, responsive UI.  
-**Tech:** Django · Python · Tailwind CSS · JavaScript · SQLite · TMDB API  
+ A **Django-powered movie discovery platform** integrated with the TMDB API.  
+- **Features:** Search & browse movies · User authentication · Responsive UI  
+- **Tech:** Django · Python · Tailwind CSS · JavaScript · SQLite · TMDB API  
+[🔗 GitHub](https://github.com/yourusername/moviehub) · [🌐 Live Demo](https://moviehub-demo.com)
 
 ---
 
 ### 🛒 Shopify Replica  
-Shopify-style e-commerce platform with full store and admin management.  
-**Features:** Dark-mode UI, CRUD for products/orders/payments, secure auth.  
-**Tech:** Django · Python · Tailwind CSS · JavaScript · SQLite · Bootstrap  
+ A **Shopify-style e-commerce platform** with complete store and admin management.  
+- **Features:** Dark-mode UI · Secure auth · CRUD for products, orders & payments  
+- **Tech:** Django · Python · Tailwind CSS · JavaScript · SQLite · Bootstrap  
+[🔗 GitHub](https://github.com/yourusername/shopify-replica) · [🌐 Live Demo](https://shopify-demo.com)
 
 ---
 
 ### 🌆 Urban Aura  
-E-commerce website with modular Django backend.  
-**Features:** Product listings, admin dashboard, cart & checkout, responsive design.  
-**Tech:** Django · Python · HTML · Tailwind CSS · JavaScript · SQLite  
+ A **modular Django e-commerce website** with a clean, modern design.  
+- **Features:** Product listings · Admin dashboard · Cart & checkout · Responsive design  
+- **Tech:** Django · Python · HTML · Tailwind CSS · JavaScript · SQLite  
+[🔗 GitHub](https://github.com/yourusername/urban-aura) · [🌐 Live Demo](https://urbanaura-demo.com)
 
 ---
 
 ### 💬 WhatsApp Clone  
-Full-stack chat application with real-time messaging using WebSockets.  
-**Features:** One-to-one & group chat, status updates, message deletion, unread tracking.  
-**Tech:** Django · Python · WebSockets · HTML · Tailwind CSS · JavaScript  
-
-
-
-
-
+ A **real-time chat application** built with Django Channels & WebSockets.  
+- **Features:** One-to-one & group chat · Status updates · Message deletion · Unread tracking  
+- **Tech:** Django · Python · WebSockets · Tailwind CSS · JavaScript  
+[🔗 GitHub](https://github.com/yourusername/whatsapp-clone) · [🌐 Live Demo](https://whatsapp-demo.com)
