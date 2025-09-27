@@ -35,7 +35,6 @@
 **Tools & Practices:**  
 ![REST API](https://img.shields.io/badge/REST_API-0052CC?style=flat-square) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
 ![GitOps](https://img.shields.io/badge/GitOps-000000?style=flat-square) 
 ![WebSocket](https://img.shields.io/badge/WebSocket-008000?style=flat-square)  
 
