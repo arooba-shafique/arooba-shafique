@@ -41,7 +41,7 @@
  A **Django-powered movie discovery platform** integrated with the TMDB API.  
 - **Features:** Search & browse movies · User authentication · Responsive UI  
 - **Tech:** Django · Python · Tailwind CSS · JavaScript · SQLite · TMDB API  
-[🔗 GitHub](https://github.com/yourusername/moviehub) · [🌐 Live Demo](https://moviehub-demo.com)
+[🔗 GitHub](https://github.com/arooba-shafique/MovieHub) 
 
 ---
 
@@ -49,7 +49,7 @@
  A **Shopify-style e-commerce platform** with complete store and admin management.  
 - **Features:** Dark-mode UI · Secure auth · CRUD for products, orders & payments  
 - **Tech:** Django · Python · Tailwind CSS · JavaScript · SQLite · Bootstrap  
-[🔗 GitHub](https://github.com/yourusername/shopify-replica) · [🌐 Live Demo](https://shopify-demo.com)
+[🔗 GitHub](https://github.com/arooba-shafique/shopify-replica) 
 
 ---
 
@@ -57,7 +57,7 @@
  A **modular Django e-commerce website** with a clean, modern design.  
 - **Features:** Product listings · Admin dashboard · Cart & checkout · Responsive design  
 - **Tech:** Django · Python · HTML · Tailwind CSS · JavaScript · SQLite  
-[🔗 GitHub](https://github.com/yourusername/urban-aura) · [🌐 Live Demo](https://urbanaura-demo.com)
+[🔗 GitHub](https://github.com/arooba-shafique/urban-aura-ecommerce) 
 
 ---
 
@@ -65,4 +65,4 @@
  A **real-time chat application** built with Django Channels & WebSockets.  
 - **Features:** One-to-one & group chat · Status updates · Message deletion · Unread tracking  
 - **Tech:** Django · Python · WebSockets · Tailwind CSS · JavaScript  
-[🔗 GitHub](https://github.com/yourusername/whatsapp-clone) · [🌐 Live Demo](https://whatsapp-demo.com)
+[🔗 GitHub](https://github.com/arooba-shafique/whatsapp-clone) 
