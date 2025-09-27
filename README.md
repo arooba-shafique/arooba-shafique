@@ -1,38 +1,65 @@
-# 👋 Hello, I'm Arooba Shafique
+# 👩‍💻 Arooba Shafique  
 
-I’m a **Software Engineer in the making** with a strong focus on **Web Development, Django, and Flutter**.  
-I enjoy solving problems, building real-world projects, and continuously exploring new technologies.  
+💡 Passionate **Computer Science Student** | Future **Full-Stack Developer** | Exploring **Entrepreneurship in Tech**  
 
----
-
-## 🚀 About Me
-- 💻 Passionate about creating scalable and user-friendly applications.  
-- 🌱 Currently learning **Advanced Django**, **WebRTC**, and **Flutter**.  
-- 🛍️ Exploring **Shopify app development** and **full-stack solutions**.  
-- 🎯 Goal: To grow as a full-stack developer and contribute to impactful projects.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arooba-shafique/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:aroobas2004@gmail.com)  
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, HTML, CSS, SQL  
-- **Frameworks & Tools:** Django, Flutter, Bootstrap, Tailwind, REST APIs  
-- **Databases:** MySQL, SQLite  
-- **Other Skills:** Git, GitHub, UI/UX basics 
+## 🚀 About Me  
+- 🎓 CS Undergraduate (SP23-BCS-023 | Roll No. 23)  
+- 🌱 Currently learning **Django, Flutter & Advanced Data Structures**  
+- 🛠 Interested in **Web Development, Mobile Apps, and Scalable Systems**  
+- 📊 Exploring **entrepreneurship opportunities for CS graduates in Pakistan**  
+- 🎯 Goal: To build impactful products & launch my own tech venture  
+- 🌍 Based in Pakistan | Open to global opportunities  
 
 ---
 
-## 📌 Featured Projects
-- 🛍️ **Shopify-style Web Project** – A Django-based ecommerce dashboard with 20+ modules and submodules.  
-- 💬 **WhatsApp Clone** – Real-time chat with **voice & video calls** using Django + WebRTC.  
+## 🛠️ Tech Stack  
 
-👉 [Check out all my repositories](https://github.com/arooba-shafique?tab=repositories)
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
+
+**Frameworks & Tools:**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)  
+![SQL Developer](https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=flat-square&logo=oracle&logoColor=white)  
 
 ---
 
-## 📫 Connect with Me
-📧 Email: **aroobas2004@gmail.com**  
-💼 LinkedIn: [Arooba Shafique](https://www.linkedin.com/in/arooba-shafique/)  
+## 📂 Featured Projects  
+
+### 🛒 Shopify Replica  
+- A **Django-based e-commerce platform** with 19+ modules  
+- Includes: store customization, product & order management, payments, analytics  
+
+### 💬 WhatsApp Clone  
+- Built with **Django + WebSockets**  
+- Features: real-time chat, groups, unread message counters, bold usernames  
+- Includes **edit & delete message functionality**  
+
 
 ---
 
-✨ *Thanks for visiting my profile — feel free to explore my projects and connect with me!* ✨
+## 📈 GitHub Stats  
+
+![Arooba's GitHub stats](https://github-readme-stats.vercel.app/api?username=arooba-shafique&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arooba-shafique&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=arooba-shafique&theme=tokyonight&hide_border=false)  
+
+---
+
+## ✨ Fun Fact  
+When I’m not coding, I’m sketching out new startup ideas and exploring how **tech can empower businesses in Pakistan** 🇵🇰.  
+
+---
+
+⭐️ _If you find my projects helpful, feel free to connect with me on LinkedIn or follow me here on GitHub!_
