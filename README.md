@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 CS Undergraduate (SP23-BCS-023 | Roll No. 23)  
+- 🎓 CS Undergraduate 
 - 🌱 Currently learning **Django, Flutter & Advanced Data Structures**  
 - 🛠 Interested in **Web Development, Mobile Apps, and Scalable Systems**  
 - 📊 Exploring **entrepreneurship opportunities for CS graduates in Pakistan**  
@@ -47,19 +47,8 @@
 - Includes **edit & delete message functionality**  
 
 
----
 
-## 📈 GitHub Stats  
 
-![Arooba's GitHub stats](https://github-readme-stats.vercel.app/api?username=arooba-shafique&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arooba-shafique&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=arooba-shafique&theme=tokyonight&hide_border=false)  
 
----
 
-## ✨ Fun Fact  
-When I’m not coding, I’m sketching out new startup ideas and exploring how **tech can empower businesses in Pakistan** 🇵🇰.  
 
----
-
-⭐️ _If you find my projects helpful, feel free to connect with me on LinkedIn or follow me here on GitHub!_
