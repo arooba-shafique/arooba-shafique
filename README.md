@@ -14,8 +14,6 @@
 - 🌱 Currently learning **Django, Flutter & Advanced Data Structures**  
 - 🛠 Interested in **Web Development, Mobile Apps, and Scalable Systems**  
 - 📊 Exploring **entrepreneurship opportunities for CS graduates in Pakistan**  
-- 🎯 Goal: To build impactful products & launch my own tech venture  
-- 🌍 Based in Pakistan | Open to global opportunities  
 
 ---
 ## 🛠️ Tech Stack  
