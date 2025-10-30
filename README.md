@@ -9,14 +9,14 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 - 🎓 CS Undergraduate 
 - 🌱 Currently learning **Django, Flutter & Advanced Data Structures**  
 - 🛠 Interested in **Web Development, Mobile Apps, and Scalable Systems**  
 - 📊 Exploring **entrepreneurship opportunities for CS graduates in Pakistan**  
 
 ---
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 **Languages & Frameworks:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
@@ -40,7 +40,7 @@
 
 ---
 
-## 📂 Featured Projects  
+## Featured Projects  
 
 ### 🎬 MovieHub  
  A **Django-powered movie discovery platform** integrated with the TMDB API.  
