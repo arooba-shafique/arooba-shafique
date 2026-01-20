@@ -66,8 +66,8 @@
 
 ---
 
-### 💬 WhatsApp Clone  
+### 💬 Talkify 
  A **real-time chat application** built with Django Channels & WebSockets.  
 - **Features:** One-to-one & group chat · Status updates · Message deletion · Unread tracking  
 - **Tech:** Django, Python, Tailwind CSS, JavaScript, WebSockets  
-[🔗 GitHub](https://github.com/arooba-shafique/whatsapp-clone)  
+[🔗 GitHub](https://github.com/arooba-shafique/talkify)  
