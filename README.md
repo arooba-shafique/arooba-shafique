@@ -1,6 +1,6 @@
 # Arooba Shafique  
 
- **Computer Science Student** | **Web Developer** | Exploring **Entrepreneurship in Tech**  
+ **Computer Science Student** | **Web Developer** | Exploring **Tech Entrepreneurship**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arooba-shafique/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:aroobas2004@gmail.com)  
@@ -13,7 +13,7 @@
 - 🎓 CS Undergraduate 
 - 🌱 Currently learning **Django, Flutter & Advanced Data Structures**  
 - 🛠 Interested in **Web Development, Mobile Apps, and Scalable Systems**  
-- 📊 Exploring **entrepreneurship opportunities for CS graduates in Pakistan**  
+- 📊 Exploring **entrepreneurship opportunities for CS undergraduates in Pakistan**  
 
 ---
 ## Tech Stack  
@@ -27,10 +27,12 @@
 
 **Frameworks & Tools:**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
 
 **Tools & Practices:**  
 ![REST API](https://img.shields.io/badge/REST_API-0052CC?style=flat-square) 
