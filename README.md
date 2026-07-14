@@ -10,10 +10,10 @@
 ---
 
 ## About Me  
-- 🎓 CS Undergraduate 
-- 🌱 Currently learning **Django, Flutter & Advanced Data Structures**  
-- 🛠 Interested in **Web Development, Mobile Apps, and Scalable Systems**  
-- 📊 Exploring **entrepreneurship opportunities for CS undergraduates in Pakistan**  
+- CS Undergraduate 
+- Currently learning **Django, Flutter & Advanced Data Structures**  
+- Interested in **Web Development, Mobile Apps, and Scalable Systems**  
+- Exploring **entrepreneurship opportunities for CS undergraduates in Pakistan**  
 
 ---
 ## Tech Stack  
@@ -44,7 +44,7 @@
 
 ## Featured Projects  
 
-### 🎬 MovieHub  
+### MovieHub  
  A **Django-powered movie discovery platform** integrated with the TMDB API.  
 - **Features:** Search & browse movies · User authentication · Responsive UI  
 - **Tech:** Django, Python, Tailwind CSS, JavaScript, SQLite, TMDB  
@@ -52,7 +52,7 @@
 
 ---
 
-### 🛒 Shopify Replica  
+### Shopify Replica  
  A **Shopify-style e-commerce platform** with complete store and admin management.  
 - **Features:** Dark-mode UI · Secure auth · CRUD for products, orders & payments  
 - **Tech:** Django, Python, Tailwind CSS, JavaScript, SQLite, Bootstrap  
@@ -60,7 +60,7 @@
 
 ---
 
-### 🌆 Urban Aura  
+### Urban Aura  
  A **modular Django e-commerce website** with a clean, modern design.  
 - **Features:** Product listings · Admin dashboard · Cart & checkout · Responsive design  
 - **Tech:** Django, Python, Tailwind CSS, JavaScript, HTML5, SQLite  
@@ -68,7 +68,7 @@
 
 ---
 
-### 💬 Talkify 
+### Talkify 
  A **real-time chat application** built with Django Channels & WebSockets.  
 - **Features:** One-to-one & group chat · Status updates · Message deletion · Unread tracking  
 - **Tech:** Django, Python, Tailwind CSS, JavaScript, WebSockets  
