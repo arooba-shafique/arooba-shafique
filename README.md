@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arooba Shafique 👋</h1>
+<h1 align="center">Hi, I'm Arooba Shafique</h1>
 
 <p align="center">
   <b>Computer Science Student</b> · <b>Web Developer</b> · <b>Exploring Tech Entrepreneurship</b>
@@ -99,11 +99,4 @@
   <a href="https://github.com/arooba-shafique?tab=repositories">View All Projects →</a>
 </p>
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arooba-shafique&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arooba-shafique&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160">
-</p>
